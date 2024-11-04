@@ -43,8 +43,7 @@ Kürze den Post auf die Hälft der Länge!“
 - Erstelle mir einen Facebook-Post, der zeigt, dass wir unseren Kunden eine solche Montageanleitung zur Verfügung stellen.
 
 ### 8. Entwickle eine detaillierte Wartungsanleitung für Rollläden.
-Chain-of-Thought Prompt für die Wartungsanleitung Ihrer Rollläden:
-Art des Rollladens:
+Entwickle eine detaillierte Wartungsanleitung für Rollläden. Erfrage dazu iterativ Antworten auf folgende Fragen:
 
 1. Um die Wartung gezielt zu planen, welche Art von Rollladen haben Sie?: (z. B. manueller oder elektrischer Rollladen, mit Fernbedienung oder Smarthome-Steuerung)
 2. Vorhandene Sensoren: Verfügt der Rollladen über integrierte Sensoren, die besondere Wartung erfordern? (z. B. Wettersensoren wie Regen- oder Windsensoren, Bewegungssensoren)

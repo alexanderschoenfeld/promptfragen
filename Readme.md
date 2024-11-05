@@ -6,10 +6,9 @@ Was soll ich heute Abend kochen? Wir sind 5 Personen, davon 2 Veganer. Wir würd
 ```
 
 ### 2. Ein Wort macht den Unterschied
-```
-a. Nenne mir 3 Ideen, wie ich Rollläden bewerben kann
-b. Nenne mir 3 unkonventionelle Ideen, wie ich Rollläden bewerben kann.
-```
+`a. Nenne mir 3 Ideen, wie ich Rollläden bewerben kann`<br>
+`b. Nenne mir 3 unkonventionelle Ideen, wie ich Rollläden bewerben kann.
+`
 
 
 
@@ -26,9 +25,9 @@ Bitte frage mich auch nach weiteren Details, wenn du zusätzliche Informationen 
 
 ### 3. Multi-Step-Prompt
 
-`Ich möchte ein Gartenhaus bauen. Worauf muss ich achten?`
-`Wie bereite ich den Untergrund für das  Fundament vor?`
-`Welche Materialien benötige ich für ein Fundament?`
+`Ich möchte ein Gartenhaus bauen. Worauf muss ich achten?`<br>
+`Wie bereite ich den Untergrund für das  Fundament vor?`<br>
+`Welche Materialien benötige ich für ein Fundament?`<br>
 `Erstelle mir eine Anleitung in Listenform`
 
 

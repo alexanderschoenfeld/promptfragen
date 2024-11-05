@@ -25,12 +25,12 @@ Bitte frage mich auch nach weiteren Details, wenn du zusätzliche Informationen 
 ```
 
 ### 3. Multi-Step-Prompt
-```
-- Ich möchte ein Gartenhaus bauen. Worauf muss ich achten?
-- Wie bereite ich den Untergrund für das  Fundament vor?
-- Welche Materialien benötige ich für ein Fundament?
-- Erstelle mir eine Anleitung in Listenform
-```
+
+`Ich möchte ein Gartenhaus bauen. Worauf muss ich achten?`
+`Wie bereite ich den Untergrund für das  Fundament vor?`
+`Welche Materialien benötige ich für ein Fundament?`
+`Erstelle mir eine Anleitung in Listenform`
+
 
 
 ### 4. Interactive Prompt

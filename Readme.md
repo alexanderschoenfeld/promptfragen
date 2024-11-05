@@ -41,6 +41,10 @@ Welche Materialien benötige ich für ein Fundament?
 ```
 Erstelle mir eine Anleitung in Listenform
 ```
+#### Folge Prompt:
+```
+Fasse mir noch einmal alles in einer Tabelle zusammen.
+```
 
 
 

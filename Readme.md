@@ -17,6 +17,11 @@ b. Nenne mir 3 unkonventionelle Ideen, wie ich Rollläden bewerben kann.
 
 
 ### 3. Chain-of-Thought Prompt
+#### Variante 1
+```
+Ich möchte eine Reise nach Paris planen. Bitte stelle mir Fragen zu meinen Reisevorlieben und Details, um eine optimale Planung zu erstellen.
+```
+#### Variante 2
 ```
 Bitte plane meine Reise nach Paris. Um loszulegen, benötige ich folgende Informationen:
 1. Reisedaten – An- und Abreisetag?
@@ -27,32 +32,28 @@ Bitte plane meine Reise nach Paris. Um loszulegen, benötige ich folgende Inform
 Bitte frage mich auch nach weiteren Details, wenn du zusätzliche Informationen benötigst, um die Planung anzupassen.
 ```
 
-### 3. Multi-Step-Prompt
+### 4. Multi-Step-Prompt
 
 ```
 Ich möchte ein Gartenhaus bauen. Worauf muss ich achten?
 ```
 ```
-Wie bereite ich den Untergrund für das  Fundament vor?
-```
-```
-Welche Materialien benötige ich für ein Fundament?
+Wie oder womit fange ich an?
 ```
 ```
 Erstelle mir eine Anleitung in Listenform
 ```
-#### Folge Prompt:
+
+##### Folge Prompts:
 ```
 Fasse mir noch einmal alles in einer Tabelle zusammen.
 ```
-
-
-
-### 4. Interactive Prompt
 ```
-Ich möchte eine Wand streichen.
+Füge den Parameter Planungszeit hinzu.
+```
 
 ### 5. Role Prompt
+```
 Agiere als erfahrener Experte für Rodeos in den USA und ausgezeichneter Journalist, der über Sportevents und Messen berichtet. Schreibe  einen herausragenden und spannenden Artikel über Las Vegas
 ```
 
@@ -63,19 +64,30 @@ Agiere als erfahrener Experte für Rodeos in den USA und ausgezeichneter Journal
 Analysiere das Produkt [https://www.somfy.de/smarter-wohnen/heizkosten-sparen/heizkosten-sparen-mit-tahoma] auf meiner Webseite [https://www.somfy.de], damit Du verstehst, worum es bei dem Produkt geht und was es leisten kann. Agiere als Marketing-Experte der einen Fokus darauf legt, Beiträge zu verfassen, die zum Handeln auffordern (Call-to-Action) und erstelle mir für meine Website einen Blog-Beitrag. Schreibe den Beitrag im Sprachstil meiner Webseite und gebe mir den Beitrag als strukturierte Liste aus.
 ```
 
-#### Folge Prompt:
+##### Folge Prompt:
 ```
 Kürze den Post auf die Hälft der Länge!
+```
+```
+Füge ein paar Emojis hinzu.
 ```
 
 
 ### 7. Montageanleitung - Multi-Step Prompt
 ```
-- Welche ersten Schritte sollte ich bei der Montage eines elektrischen Rollladens beachten?
-- Wie installiere ich das elektrische System und welche Werkzeuge brauche ich dafür?
-- Welche abschließenden Schritte sind notwendig, um die Installation zu testen?
-- Gebe mir nun eine detaillierte Montageanleitung für elektrische Rollläden in einer strukturierten Liste aus
-- Erstelle mir einen Facebook-Post, der zeigt, dass wir unseren Kunden eine solche Montageanleitung zur Verfügung stellen.
+Welche ersten Schritte sollte ich bei der Montage eines elektrischen Rollladens beachten?
+```
+```
+Wie installiere ich das elektrische System und welche Werkzeuge brauche ich dafür?
+```
+```
+Welche abschließenden Schritte sind notwendig, um die Installation zu testen?
+```
+```
+Gebe mir nun eine detaillierte Montageanleitung für elektrische Rollläden in einer strukturierten Liste aus
+```
+```
+Erstelle mir einen Facebook-Post, der zeigt, dass wir unseren Kunden eine solche Montageanleitung zur Verfügung stellen.
 ```
 
 
@@ -95,13 +107,13 @@ Weise abschließend plakativ darauf hin, dass in konkreten Fällen, von denen Du
 ```
 
 
-#### Folge Prompt:
+##### Folge Prompt:
 ```
 Was wären ähnliche Fälle denn?
 ```
 
 ### 9. Fun Prompt:
 ```
-Erkläre einfache Prozentrechnung für 12 jährige.
+Erkläre Prozentrechnung für 12 jährige.
 ```
 

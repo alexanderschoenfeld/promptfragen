@@ -2,7 +2,8 @@
 
 ### 1. Instruktion & Kontext
 ```
-Was soll ich heute Abend kochen? Wir sind 5 Personen, davon 2 Veganer. Wir würden gerne 5 Gänge zubereiten, die frisch und leicht sind. Timo mag keine grünen Bohnen.
+Bitte führe eine umfassende Analyse meiner Homepage durch und erstelle einen detaillierten Optimierungsbericht. Konzentriere dich dabei auf folgende Punkte: Benutzerfreundlichkeit, Design, SEO und Usability. 
+Zielgruppe: Hausbesitzer, Ziel: mehr Kontaktanfragen für Sonnenschutz und Terrassenwelten.
 ```
 
 ### 2. Ein Wort macht den Unterschied
@@ -17,28 +18,25 @@ b. Nenne mir 3 unkonventionelle Ideen, wie ich Rollläden bewerben kann.
 
 
 ### 3. Chain-of-Thought Prompt
-#### Variante 1
+#### Variante 3.1
 ```
-Ich möchte eine Reise nach Paris planen. Bitte stelle mir Fragen zu meinen Reisevorlieben und Details, um eine optimale Planung zu erstellen.
+Ich habe eine Reklamation eines Kunden bekommen, weil ein Sonnenschutzprodukt nach einem Monat nicht mehr richtig funktioniert. Der Kunde ist enttäuscht. Erstelle mir Schritt für Schritt eine Gesprächsanleitung, um die Reklamation bestmöglich abzuwickeln.
 ```
-#### Variante 2
+#### Variante 3.2
 ```
-Bitte plane meine Reise nach Paris. Um loszulegen, benötige ich folgende Informationen:
-1. Reisedaten – An- und Abreisetag?
-2. Art der Unterkunft – Hotel, Airbnb, oder Hostel?
-3. Budget pro Tag – niedrig, mittel, oder hoch?
-4. Hauptinteressen – Kultur, Shopping, Gastronomie, oder Sightseeing?
+Bitte bearbeite die Reklamation zum Sonnenschutzprodukt des Kunden. Überlege wie man Schritt für Schritt reagieren kann:
+1.	Identifiziere die spezifischen Probleme des Kunden?
+2.	Schreibt der Kunde sachbezogen oder emotional (verärgert, wütend, etc.)?
+3.	Welche Lösungsansätze kannst du anbieten, um den Kunden zufrieden zu stellen?
+4.	Über welchen Kommunikationskanal wird die Reklamation bearbeitet?
+Bitte frage mich auch nach weiteren Details, wenn du zusätzliche Informationen benötigst, um die Reklamation zu bearbeiten.
 
-Bitte frage mich auch nach weiteren Details, wenn du zusätzliche Informationen benötigst, um die Planung anzupassen.
 ```
 
 ### 4. Multi-Step-Prompt
 
 ```
-Ich möchte ein Gartenhaus bauen. Worauf muss ich achten?
-```
-```
-Wie oder womit fange ich an?
+Ich möchte einen social-media Post zum Thema Sonnenschutz und Markisen verfassen. Welches sind die 5 wichtigsten Punkte, die du wissen musst, damit ein guter Post entsteht?
 ```
 ```
 Erstelle mir eine Anleitung in Listenform
@@ -46,15 +44,15 @@ Erstelle mir eine Anleitung in Listenform
 
 ##### Folge Prompts:
 ```
-Fasse mir noch einmal alles in einer Tabelle zusammen.
+Zielgruppe sind Hausbesitzer. Produkt heißt Martha Markise. Die Markise ist sehr stabil. Es ist bald Sommer. Meine Telefonnummer ist. 12121212
 ```
 ```
-Füge den Parameter Planungszeit hinzu.
+Bitte modifiziere den Post für Instagramm und Facebook und füge einen Call-to-action hinzu.
 ```
 
 ### 5. Role Prompt
 ```
-Agiere als erfahrener Experte für Rodeos in den USA und ausgezeichneter Journalist, der über Sportevents und Messen berichtet. Schreibe  einen herausragenden und spannenden Artikel über Las Vegas
+Agiere als erfahrener Experte rund um Rollladen- und Sonnenschutz als ausgezeichneter Journalist, der über Rollladen, Tore und Sonnenschutz sowie innovative Lösungen berichtet. Als Branchenkenner und erfahrener Journalist schreibst du einen fachspezifischen und innovativen Artikel über die Messe “R+T”.
 ```
 
 
@@ -73,21 +71,24 @@ Füge ein paar Emojis hinzu.
 ```
 
 
-### 7. Montageanleitung - Multi-Step Prompt
+### 7. Einladung zum „Tag der offenen Tür“ - Multi-Step Prompt
 ```
-Welche ersten Schritte sollte ich bei der Montage eines elektrischen Rollladens beachten?
-```
-```
-Wie installiere ich das elektrische System und welche Werkzeuge brauche ich dafür?
+Lass uns gemeinsam eine Einladung für den „Tag der offenen Tür“ entwickeln. Beginne mit Schritt 1: Definiere die Zielgruppe. Denke an potenzielle Kunden, die an Haus- und Gartengestaltung interessiert sind. Was motiviert diese Zielgruppe? Schreibe das auf. Danach gehen wir zu Schritt 2 über.“.
 ```
 ```
-Welche abschließenden Schritte sind notwendig, um die Installation zu testen?
+Schritt 1: Definiere die Zielgruppe, die zur Veranstaltung eingeladen werden soll. Beschreibe ihre Interessen und Bedürfnisse (z. B. Familien, Hausbesitzer, Gartenliebhaber). 
 ```
 ```
-Gebe mir nun eine detaillierte Montageanleitung für elektrische Rollläden in einer strukturierten Liste aus
+Schritt 2: Überlege, welche Informationen in der Einladung enthalten sein müssen. Beantworte diese Fragen: Wann und wo findet der „Tag der offenen Tür“ statt? Welche besonderen Highlights oder Attraktionen gibt es (z. B. Live-Demonstrationen, Gewinnspiele, spezielle Rabatte)? Gibt es eine Anmeldung oder ist der Eintritt frei? 
 ```
 ```
-Erstelle mir einen Facebook-Post, der zeigt, dass wir unseren Kunden eine solche Montageanleitung zur Verfügung stellen.
+Schritt 3: Formuliere eine Hauptbotschaft, die die Zielgruppe anspricht. Beantworte dabei: Welche Vorteile hat ein Besuch für die Zielgruppe? Welchen emotionalen Ton möchtest du setzen (z. B. herzlich, inspirierend, exklusiv)?
+```
+```
+Schritt 4: Erstelle einen ansprechenden Call-to-Action. Überlege, welche konkrete Handlung du von der Zielgruppe erwartest (z. B. „Besuchen Sie uns am 10. Dezember!“ oder „Melden Sie sich noch heute an und sichern Sie sich ein Willkommensgeschenk!“).
+```
+```
+Schritt 5: Erstelle nun die Einladung visuell und sprachlich einladend.
 ```
 
 

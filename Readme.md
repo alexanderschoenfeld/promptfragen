@@ -94,7 +94,7 @@ Schritt 5: Erstelle nun die Einladung visuell und sprachlich einladend.
 
 ### 8. Entwickle eine detaillierte Wartungsanleitung für Rollläden.
 ```
-Entwickle eine detaillierte Wartungsanleitung für Rollläden. Erfrage dazu iterativ Antworten auf folgende Fragen:
+Entwickle eine detaillierte Wartungsanleitung für Rollläden. Stelle dazu iterativ folgende Fragen und warte auf Antworten:
 
 1. Um die Wartung gezielt zu planen, welche Art von Rollladen haben Sie?: (z. B. manueller oder elektrischer Rollladen, mit Fernbedienung oder Smarthome-Steuerung)
 2. Vorhandene Sensoren: Verfügt der Rollladen über integrierte Sensoren, die besondere Wartung erfordern? (z. B. Wettersensoren wie Regen- oder Windsensoren, Bewegungssensoren)
